@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+.box1{
+    background-color: rgba(197, 194, 194, 0.295);
+    height: 230px;
+    width: 400px;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 4px;
+}
+input{
+    margin: 2px;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    border: 1px solid blue;
+}
+input:hover{
+    background-color: transparent;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #000;
+}
+h1{
+   color: rgba(41, 41, 194, 0.644);
+   
+  
+}
+.nav{
+  
+    background: rgba(191, 221, 236, 0.61);
+    
+    width: auto;
+    height: 40px;
+    padding: 30px;
+
+    
+
+}
+.header{
+    background: antiquewhite;
+}
+.h1{
+    color:black;
+}
